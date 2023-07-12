@@ -78,7 +78,7 @@ button:hover {
   }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 900px) {
   button {
     font-size: 3rem;
   }
